@@ -1,0 +1,6 @@
+public class StringToNumber {
+  public static int stringToNumber(String str) {
+  
+    return new Integer(Integer.valueOf(str));
+  }
+}
